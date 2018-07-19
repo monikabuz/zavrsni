@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width: 500px;
+  height: 560px;
+}
+header {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: lightslategray;
+}
+.container {
+  display: block;
+  padding: 0px 20px 0px 20px;
+  background: lightblue;  
+  width: 100px;
+  height: 500px;
+}
